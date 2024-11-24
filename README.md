@@ -13,8 +13,10 @@
 - [Uso](#uso)
 - [Equipo](#equipo)
 - [Contacto](#contacto)
+- [Demo](#demo)
 
 ## Descripción del Proyecto
+**Proyecto desarrollado para la Hackathon2024 de Boehringer Ingelheim: reto 3**
 
 La Dra. María, médica de familia, y la enfermera Laura forman un equipo comprometido en su centro de salud, enfrentando el reto de brindar atención integral a pacientes con múltiples condiciones crónicas interconectadas. Entre estas condiciones se incluyen enfermedades Cardiovasculares, Renales y Metabólicas (CRM), como la diabetes, insuficiencia cardíaca, enfermedad renal crónica, esteatohepatitis no alcohólica (EHNA) y obesidad. Estos trastornos no solo coexisten, sino que también se influyen mutuamente, lo que complica la atención integral.
 
@@ -134,6 +136,7 @@ Esta herramienta será fundamental para ayudar a la Dra. María y a Laura a ofre
 - Ingresar las condiciones de salud del paciente.
 - Recibir recomendaciones personalizadas y seguimiento.
 
+
 ## Equipo de desarrollo
 
 - [Flavia Ferrigno](https://github.com/flaviferri/)
@@ -141,5 +144,8 @@ Esta herramienta será fundamental para ayudar a la Dra. María y a Laura a ofre
 - [Laura Gil](https://github.com/LauraGDev)
 - [Betty Lopez](https://github.com/BettyLopo)
 - [Belén Sánchez](https://github.com/Belensanchez1989)
+
+## Demo
+https://github.com/user-attachments/assets/8ac5e0a3-5cef-44b3-b273-2b32d1204179
 
 
