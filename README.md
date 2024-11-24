@@ -1,5 +1,5 @@
 # Patient360
-## Reto: Herramienta Digital para la Gestión Integral de Condiciones Crónicas (CRM)
+## Boehringer Ingelheim Hackathon2024 | Reto: Herramienta Digital para la Gestión Integral de Condiciones Crónicas (CRM)
 
 ## Índice
 
